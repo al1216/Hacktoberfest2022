@@ -1,3 +1,8 @@
+//Best Time Complexity : O(nlogn)
+//Average Time Complexity : O(nlogn)
+//worst Time Complexity : O(n^2)
+//Space Complexity: O(n)
+
 #include <iostream>
 using namespace std;
 
