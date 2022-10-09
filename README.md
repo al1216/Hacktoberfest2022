@@ -1,5 +1,12 @@
 # 🎃 Hacktoberfest 2022 🎃
 
+<div align="center">
+  
+<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/al1216" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+</div>
+
 ![hacktoberfest image](https://user-images.githubusercontent.com/71925655/194758827-0cd85757-2f46-413e-b935-891ec8ce0198.png)
 
 # What is Hacktoberfest?
@@ -18,14 +25,33 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 - For DSA Code: Try to add time and space complexity to the actual code as comments.
 - Follow the pull request template
 
-# How to open a pull request:
-
-- Open the repository you wish to fork. In the top-right corner, click on the fork button and fork the repository.
-
+# Getting started
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/71925655/194759692-fa88ef51-b996-4546-a02a-0d75196ea0fe.png">
+* Clone your fork down to your local machine
 
-- You will notice that you have a local version of the repository after forking it. Make changes to the repository after clicking on fetch upstream. Open a pull request after clicking on contribute.
-- Make an effort to provide a detailed description of the new code.
+```markdown
+git clone https://github.com/your-username/hacktoberfest.git
+```
+
+* Create a branch
+
+```markdown
+git checkout -b branch-name
+```
+
+* Make your changes (choose from any task below)
+* Commit and push
+
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
+
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__  :star: if you had fun!
 
 # Connect me ...
 - Linkedin: https://www.linkedin.com/in/aditya-kumar-gupta-54b323188/
