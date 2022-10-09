@@ -16,8 +16,6 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 # Rules To Follow while sending pull request:
 
-*Read contribution.md before proceeding.*
-
 - Please adhere to the file structure provided, i.e. place your code only in the appropriate folders. For example, if you want to add a data structure in C++, put it in the appropriate folder. If you prefer another language, create a new folder (if one does not already exist) and use the same file structure.
 - Do not disburse spam codes (They should be proper codes and not just one liners or space fixes).
 - Please try to include detailed descriptions of the code you're adding.
