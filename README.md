@@ -27,7 +27,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 # Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71925655/194759692-fa88ef51-b996-4546-a02a-0d75196ea0fe.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71925655/194761010-3eb226fd-30dd-437d-b7ad-decb1f39ad3f.png">
 * Clone your fork down to your local machine
 
 ```markdown
